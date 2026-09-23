@@ -1,7 +1,3 @@
-window.addEventListener("DOMContentLoaded", () => {
-  alert("Bem-vindo ao meu perfil!");
-});
- 
 // Contador de cliques (só existe na página index.html)
 const botao = document.getElementById("botao-contador");
  
